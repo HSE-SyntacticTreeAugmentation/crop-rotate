@@ -5,6 +5,9 @@ Created by Gözde Gül Şahin
 20.05.2018
 Flipper (Rotatation) and Cropper classes
 
+Modified by Anastasia Kravtsova
+20.12.19
+
 """
 __author__ = 'Gözde Gül Şahin'
 

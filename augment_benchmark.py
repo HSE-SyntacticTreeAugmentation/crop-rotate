@@ -6,6 +6,9 @@
  Gözde Gül Şahin
  Copyright 2018
 
+ Modified by Anastasia Kravtsova
+ 20.12.19
+
  Uses *-train.conllu files under UD-treebank folder and augments each via cropping and rotating.
  Saves augmented files as train.conllu.crop|rotate.(probabilty*10)
 

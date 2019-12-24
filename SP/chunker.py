@@ -4,6 +4,9 @@
 Created by Gözde Gül Şahin
 20.05.2018
 Read UD treebanks into a data structure suitable to cropping and flipping
+
+Modified by Anastasia Kravtsova
+20.12.19
 """
 
 __author__ = 'Gözde Gül Şahin'
